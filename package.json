@@ -1,0 +1,15 @@
+{
+  "name": "tutorial-wordpress-env-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wp-env": "wp-env",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/env": "^5.9.0"
+  }
+}
